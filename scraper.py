@@ -7,7 +7,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
-def scrape_dzritv():
+def scrape_dzritv_m3u8():
     chrome_options = Options()
     chrome_options.add_argument("--headless")
     chrome_options.add_argument("--no-sandbox")
@@ -22,13 +22,13 @@ def scrape_dzritv():
         driver.get(main_url)
         time.sleep(5)
 
-        # পেজ সম্পূর্ণ নিচে স্ক্রোল করে ক্যাটাগরি ও কার্ডগুলো লোড করা
+        # পেজ সম্পূর্ণ নিচে স্ক্রোল করে ক্যাটাগরি ও ম্যাচ কার্ডগুলো লোড করা
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
         time.sleep(3)
 
         soup = BeautifulSoup(driver.page_source, 'html.parser')
 
-        # পেজের সমস্ত ম্যাচ কার্ড বা লিঙ্ক খোঁজা
+        # পেজের সমস্ত লাইভ ম্যাচ লিংক সংগ্রহ করা
         match_links = set()
         for a in soup.find_all('a', href=True):
             href = a['href']
@@ -41,17 +41,17 @@ def scrape_dzritv():
         for link in match_links:
             try:
                 driver.get(link)
-                time.sleep(4)  # প্লেয়ার এবং আইফ্রেম লোড হওয়ার জন্য অপেক্ষা
+                time.sleep(5)  # M3U8 ডায়নামিক লিংক লোড হওয়ার জন্য সময়
                 
                 page_source = driver.page_source
                 inner_soup = BeautifulSoup(page_source, 'html.parser')
 
-                # ১. ম্যাচের নাম সংগ্রহ
+                # ১. ম্যাচের নাম বের করা
                 title_elem = inner_soup.find('h1') or inner_soup.find('h2') or inner_soup.find('title')
                 title = title_elem.get_text(strip=True).replace(" - DZRITV", "").strip() if title_elem else "Live Match"
 
-                # ২. ক্যাটাগরি সংগ্রাহ (যেমন: Cricket, Football, Football Live, etc.)
-                category = "General Sports"
+                # ২. ক্যাটাগরি বের করা
+                category = "Sports"
                 cat_elem = inner_soup.find('span', class_=re.compile(r'category|genre|sport', re.I)) or inner_soup.find('a', class_=re.compile(r'category|genre|sport', re.I))
                 if cat_elem:
                     category = cat_elem.get_text(strip=True)
@@ -62,24 +62,34 @@ def scrape_dzritv():
                 if img_url and not img_url.startswith('http'):
                     img_url = f"https://dzritv.com{img_url}"
 
-                # ৪. প্লেয়ার বা স্ট্রিম ইউআরএল শনাক্তকরণ (iFrame, m3u8 বা Embed URL)
+                # ৪. সরাসরি M3U8 স্ট্রিম লিংক (যেমন: wmsAuthSign সহ) ফিল্টার করা
                 player_url = None
                 
-                # iFrame থেকে লিংক স্ক্র্যাপ করা
-                iframes = inner_soup.find_all('iframe')
-                for iframe in iframes:
-                    src = iframe.get('src') or iframe.get('data-src')
-                    if src and ('player' in src or 'embed' in src or 'stream' in src or 'http' in src):
-                        player_url = src if src.startswith('http') else f"https:{src}" if src.startswith('//') else f"https://dzritv.com{src}"
-                        break
+                # RegEx ব্যবহার করে .m3u8 ও Authentication Token সহ পূর্ণাঙ্গ URL অনুসন্ধান
+                m3u8_match = re.search(r'(https?://[^\s"\'<>]+\.m3u8[^\s"\'<>]*)', page_source)
+                
+                if m3u8_match:
+                    player_url = m3u8_match.group(1)
+                else:
+                    # যদি iFrame এর ভেতর M3U8 রিডাইরেক্ট লিংক থাকে
+                    iframes = inner_soup.find_all('iframe')
+                    for iframe in iframes:
+                        src = iframe.get('src') or iframe.get('data-src')
+                        if src:
+                            full_iframe_url = src if src.startswith('http') else f"https:{src}" if src.startswith('//') else f"https://dzritv.com{src}"
+                            try:
+                                # iFrame এর ভেতরে ঢুকে আসল M3U8 সার্চ করা
+                                driver.get(full_iframe_url)
+                                time.sleep(3)
+                                iframe_source = driver.page_source
+                                sub_m3u8 = re.search(r'(https?://[^\s"\'<>]+\.m3u8[^\s"\'<>]*)', iframe_source)
+                                if sub_m3u8:
+                                    player_url = sub_m3u8.group(1)
+                                    break
+                            except Exception:
+                                pass
 
-                # পেজ সোর্সে সরাসরি স্ট্রিম লিংক (.m3u8 / embed) থাকলে
-                if not player_url:
-                    stream_match = re.search(r'(https?://[^\s"\'<>]+\.(?:m3u8|mp4))', page_source) or re.search(r'(https?://[^\s"\'<>]+/embed/[^\s"\'<>]+)', page_source)
-                    if stream_match:
-                        player_url = stream_match.group(1)
-
-                # কেবল প্লেয়ার লিংক পাওয়া গেলে ডাটা যুক্ত হবে
+                # কেবল M3U8 লিংক পাওয়া গেলেই যুক্ত করা হবে
                 if player_url:
                     matches_data.append({
                         "match_name": title,
@@ -88,23 +98,23 @@ def scrape_dzritv():
                         "player_url": player_url,
                         "page_url": link
                     })
-                    print(f"[FOUND] Category: {category} | Match: {title} | Player: {player_url}")
+                    print(f"[FOUND M3U8] {title} | Stream: {player_url}")
                 else:
-                    print(f"[NO PLAYER] Skipping {link}")
+                    print(f"[NO M3U8 STREAM] Skipping {link}")
 
             except Exception as e:
-                print(f"Error scraping {link}: {e}")
+                print(f"Error checking match {link}: {e}")
 
-        # JSON ফাইল তৈরি ও ডাটা সেভ
+        # JSON ফাইলে সংরক্ষণ করা (পুরনো বা নিষ্ক্রিয় ম্যাচ অটোমুছে যাবে)
         with open("dzritv_matches.json", "w", encoding="utf-8") as f:
             json.dump(matches_data, f, ensure_ascii=False, indent=2)
 
-        print(f"Successfully saved {len(matches_data)} matches to dzritv_matches.json")
+        print(f"Successfully saved {len(matches_data)} streaming matches to dzritv_matches.json")
 
     except Exception as e:
-        print(f"Main scraper failed: {e}")
+        print(f"Main Scraper Error: {e}")
     finally:
         driver.quit()
 
 if __name__ == "__main__":
-    scrape_dzritv()
+    scrape_dzritv_m3u8()
