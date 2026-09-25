@@ -1,464 +1,954 @@
 [
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream312/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MTY6MDAgQU0maGFzaF92YWx1ZT1aQWtxcEVPQVI0OTFsNDdiRyt3V1pBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/adrian-majchrzak-jakub-caban-25485900"
+    "player_url": "https://j1.soft4game.com/o22/stream288/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjEzOjA3IEFNJmhhc2hfdmFsdWU9eUpleGp1UXo4WTg3dzlxZG1xNXAxQT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/fulham-nottingham-forest-25487942"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream204/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MTY6MDYgQU0maGFzaF92YWx1ZT11bUphSjVOdkdyMld6ZUZvQUZNK2JBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/aura-esports-chainsaw-team-25485895"
+    "player_url": "https://j1.soft4game.com/o22/stream340/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjEzOjEzIEFNJmhhc2hfdmFsdWU9Rk5NYXd4UytwTkxxaENKSUJLOUEwdz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/japan-south-korea-25487644"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream258/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MTY6MTIgQU0maGFzaF92YWx1ZT1rMTl0QW12d2t1d1lyeE1lM0N6L0p3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/abramov-mikhail-samakaev-iskander-25485851"
+    "player_url": "https://j1.soft4game.com/o22/stream10/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjEzOjE5IEFNJmhhc2hfdmFsdWU9dkpOYWk0SzBmNHFURG9tMG9VeHNvZz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/hiroshima-toyo-carp-yomiuri-giants-25481322"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream259/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MTY6MTggQU0maGFzaF92YWx1ZT1ORkUzTDRGQVN1ZUpNT0VlYkF0Y0d3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/dockers-united-union-kremin-25485857"
+    "player_url": "https://j1.soft4game.com/o22/stream184/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjEzOjI1IEFNJmhhc2hfdmFsdWU9MUpPQXlQL29xTzRzUkpscUxBS3BzZz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/cassone-m-masur-d-25480192"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream319/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MTY6MjMgQU0maGFzaF92YWx1ZT1oOXNhMnNLZGlpclJYb1U1UGZUWSt3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/loboda-m-rodin-o-25482726"
+    "player_url": "https://j1.soft4game.com/o22/stream566/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjEzOjMxIEFNJmhhc2hfdmFsdWU9M1kxUzUvUmJsdDBSaWdzeSsrT3VVQT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/fenerbahce-vladl3n--aston-villa-legion-25488374"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream86/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MTY6MjkgQU0maGFzaF92YWx1ZT1mK3NzeG1HazhVeDdEN3EwWTJralBBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
+    "player_url": "https://j1.soft4game.com/o22/stream43/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjEzOjM2IEFNJmhhc2hfdmFsdWU9cnFPY2c5d3huTlBxbjRrMzIrbUJ6Zz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/hubert-l-silva-david-25487881"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream282/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjEzOjQyIEFNJmhhc2hfdmFsdWU9WU5qT0dHV0ZieTNIY2t4MzBWWlBoUT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/nosov-a-kogotkov-s-25482815"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream322/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjEzOjQ4IEFNJmhhc2hfdmFsdWU9eGQrYk5QLzlvenRXVWVJcXJUVXlqdz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/porto-alosdvxl--fenerbahce-vladl3n-25488407"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream287/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjEzOjU0IEFNJmhhc2hfdmFsdWU9aFcxWTByQk1hdHhHSGIyTU9NclNUUT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/jacek-skrzeczkowski-robert-niewiadomski-25488145"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream62/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE0OjAwIEFNJmhhc2hfdmFsdWU9UDc3Sk1ScThYWUgrUWNhemQ0cHQ5Zz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/tyloo-edward-gaming-25487802"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream231/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE0OjA2IEFNJmhhc2hfdmFsdWU9d084V0Y3TEZWOEhCVnY0ODNFOXRuUT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/gonzalez-m-molteni-a-gonzalez-s-jebens-h-25455176"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream200/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE0OjExIEFNJmhhc2hfdmFsdWU9NUpUUlZKWGxwN0RmcHNyVTBnV25RQT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/ns-redforce-nrg-esports-25487520"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream61/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE0OjE3IEFNJmhhc2hfdmFsdWU9NUZOYnVhOW4wbndGUEh5R085dnBlUT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/glamorgan-essex-25459634"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream542/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE0OjIzIEFNJmhhc2hfdmFsdWU9NGk3NUs3WGcwcGM5NmFMR0VJcXpWZz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/saigon-warriors-mvk-esports-academy-25487521"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream124/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE0OjI5IEFNJmhhc2hfdmFsdWU9Zis1Rk1kd01GYllDdWxIMkVUWGw1UT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/rassvet-krasnoyarsk-fsk-raspadskaya-25487744"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream205/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE0OjM1IEFNJmhhc2hfdmFsdWU9U25lSFkrQlIyc01zRWM5UlE4YVpwQT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/omsk-region-w--kursk-region-w-25487395"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream567/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE0OjQxIEFNJmhhc2hfdmFsdWU9V0tHL1UyVnRVOHJ1NFJlTEZSeThzdz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/pittsburgh-frosya8--new-jersey-werd-25488383"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream256/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE0OjQ2IEFNJmhhc2hfdmFsdWU9OEJBWUNYRDkzQm12RSs4Qnh5Z2JsUT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/skyhawks-steel-axes-25488382"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream338/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE0OjUyIEFNJmhhc2hfdmFsdWU9RnhNL2lNNklaVmNoeXNHNCswZ3JIUT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/jinan-cyclones-xi-an-legends-25488008"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream16/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE0OjU4IEFNJmhhc2hfdmFsdWU9cE5iZTRZcERYbzFhMXZVZTY1QkdRQT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/gavrilov-yu-olhovoi-e-25480263"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream90/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE1OjA0IEFNJmhhc2hfdmFsdWU9ZUNtM3hnZHpPMUxBUkxZNWtCSUs1QT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/kristall-spb-strogino-25481325"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream265/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE1OjEwIEFNJmhhc2hfdmFsdWU9R00yaVplWnZzM0w1MjNTbG9hL3Bydz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/nangkiew-irat-mawlai-25477849"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream285/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE1OjI1IEFNJmhhc2hfdmFsdWU9ZHJoYWU2ZGE0UDhIT1RwcFJ6WVU4dz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/saakian-v-honcharenko-s-25482801"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream199/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE1OjMwIEFNJmhhc2hfdmFsdWU9UnhOYjhhWnNKaCtaZ0YwM3pjaXV1Zz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/wolves-dragon-ranger-gaming-25487849"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream204/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE1OjM2IEFNJmhhc2hfdmFsdWU9eVdKeDk1emxYV0dVaTVvNTlhajJaUT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/ozerova-a-lazar-a-25481263"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream543/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE1OjQyIEFNJmhhc2hfdmFsdWU9OC9GOUFmSEJ5N3U3azU0WWRudEFPdz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/azure-dragons-stormriders-25487539"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream313/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE1OjQ4IEFNJmhhc2hfdmFsdWU9YU5BVUZjdmY5SmdqY3dzSlM3a1ZHUT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/huk-m-kolisnyk-o-25478713"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream552/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE1OjU0IEFNJmhhc2hfdmFsdWU9a3dPanU5bFRJTFV1L2FDc0M0bW4vZz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/lyman-o-kuzmenko-d-25482810"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream294/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE2OjAwIEFNJmhhc2hfdmFsdWU9amZhM2JIWTR0dU9vQi9IUzRkRm5wUT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/edmonton-di-akon--colorado-smolik-25488164"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream237/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE2OjA1IEFNJmhhc2hfdmFsdWU9bmVJdkRSVWIrN1I3N3JRVDdJdVljUT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/kendoian-t-kopylov-s-vinogradov-g-leonov-p-25480338"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream182/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE2OjExIEFNJmhhc2hfdmFsdWU9ZmVwMWU2aWdEN3lndWZ4SDBUb0JIQT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/kostovic-t-tian-fangran-25479059"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream89/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE2OjI2IEFNJmhhc2hfdmFsdWU9VHhkcWVUYjBxbm1QanFhenhTdkpIUT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/zaroth-chelsea-minjori-manchester-city-25487834"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream11/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE2OjQxIEFNJmhhc2hfdmFsdWU9WW5QemhKZG5wVWRSc1cxMXlUOExKdz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/yokohama-baystars-hanshin-tigers-25481320"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream267/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE2OjQ3IEFNJmhhc2hfdmFsdWU9cG5ranJuUWZTNTRsaWR5VVdNS21BZz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/deckers-a-morais-diogo-25482174"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream155/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE2OjUyIEFNJmhhc2hfdmFsdWU9MHU4Szl3aWFmUjFqcm1IR2FNSHdYZz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/czech-republic-u20-hungary-u20-25481836"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream293/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE3OjA3IEFNJmhhc2hfdmFsdWU9YWJjQ1BpaEp4VUhnSHBBZ3g2Yjd2UT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/smazik-l-merkl-r-25482811"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream236/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE3OjEzIEFNJmhhc2hfdmFsdWU9SlRFelYrUkVaQ2RvMEFybTIrK1hGUT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/bangladesh-malaysia-25472663"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream311/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE3OjE5IEFNJmhhc2hfdmFsdWU9Zy9URTV0aXAwdmgwN2VFR0tJMks5QT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/marcin-kociuba-daniel-zubrzycki-25488057"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream86/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE3OjI0IEFNJmhhc2hfdmFsdWU9T0pMejBpcTR4d1ZYeUlqOWxZV0hqZz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
     "page_url": "https://dzritv.com/match/maddy-france-gigi-argentina-25482644"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream233/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MTY6MzUgQU0maGFzaF92YWx1ZT1zWmllWGtSUzh5ZkFJa3U0Yk5VT3NRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/cheboksary-w--tambov-w-25485975"
+    "player_url": "https://j1.soft4game.com/o22/stream559/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE3OjMwIEFNJmhhc2hfdmFsdWU9MG05aFIxdGFHSkRpZmNYVnJ0VHR0dz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/kirdan-p-egorov-v-25480264"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream34/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MTY6NDEgQU0maGFzaF92YWx1ZT1ZWllTdEtIVVVnZ1dmTlVCYUNqbzl3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/ledovye-spartantcy-svirepye-eji-25480231"
+    "player_url": "https://j1.soft4game.com/o22/stream12/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE3OjM2IEFNJmhhc2hfdmFsdWU9YlZyWjJSOEJoU2NZbFd4akozY2pSdz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/orix-buffaloes-fukuoka-s-hawks-25481321"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream207/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MTY6NDggQU0maGFzaF92YWx1ZT05YmVDUWI1MkNxODA5QnBvRlRQSkdBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/sable-esports-flame-united-25485557"
+    "player_url": "https://j1.soft4game.com/o22/stream562/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE3OjQyIEFNJmhhc2hfdmFsdWU9NVpPL2xQbE5oREF5V0QrbGxhNlc2UT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/molodtsov-d-gusev-m-25482812"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream146/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MTY6NTQgQU0maGFzaF92YWx1ZT1FMHBEdkd0UTB4U25QSlZwdk5KRG13PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/uzbekistan-u23-saudi-arabia-u23-25469895"
+    "player_url": "https://j1.soft4game.com/o22/stream57/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE3OjQ4IEFNJmhhc2hfdmFsdWU9ajBkcWlPRXhBc2h4SndJandRRXBzdz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/bouzas-maneiro-j-muchova-k-25487601"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream86/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MTc6MDAgQU0maGFzaF92YWx1ZT04M01LNWxoSnVFQ2dZVmNWNmpUTUR3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/trinity-everton-taylor-spurs-25485795"
+    "player_url": "https://j1.soft4game.com/o22/stream127/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE3OjUzIEFNJmhhc2hfdmFsdWU9dkdrTlNORkJ2VWwvM3EvT2RIZTdTZz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/fc-ciu-telasi-georgians-25486621"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream285/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MTc6MDYgQU0maGFzaF92YWx1ZT1GajJYb0VQWkQxTjdLM1JrTFQ1OFhnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/phoenix-oldjhin--portland-falcon-25485993"
+    "player_url": "https://j1.soft4game.com/o22/stream230/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE3OjU5IEFNJmhhc2hfdmFsdWU9ZUowa2dhN05xWkhlWGNZUFpCWVhwdz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/brisbane-bullets-illawarra-hawks-25468872"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream318/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MTc6MTIgQU0maGFzaF92YWx1ZT1HNUdOaG1wTkpGRWtCb24xdjMzMERnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/mukhin-v-korniichuk-v-25482725"
+    "player_url": "https://j1.soft4game.com/o22/stream233/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE4OjA1IEFNJmhhc2hfdmFsdWU9L20rTDVkcXB5L1crZnUralVveUFkdz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/mansilla-diez-m-pereira-t-pavel-b-winter-lopez-b-25481788"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream288/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MTc6MjggQU0maGFzaF92YWx1ZT1QdEJYdHEyTmVmcUlQVXZWa2JkZVZBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/salzburg-artrom--porto-dava-25485983"
+    "player_url": "https://j1.soft4game.com/o22/stream257/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE4OjExIEFNJmhhc2hfdmFsdWU9VG5PSHlxbloySS9sUXVzelhsV3B3Zz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/dynamo-barnaul-pobeda-nizhny-novgorod-25478650"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream551/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MTc6MzQgQU0maGFzaF92YWx1ZT1Vekt5a1l4V1kvK1RlRlVQenNJMW1BPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/minnesota-jimmy-walker13--atlanta-nonspeed-n-25485866"
+    "player_url": "https://j1.soft4game.com/o22/stream337/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE4OjI2IEFNJmhhc2hfdmFsdWU9SDZjK0RHYldSK2JDTjRmRU4ydXo0QT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/rakuten-monkeys-chinatrust-brothers-25487748"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream38/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MTc6NDAgQU0maGFzaF92YWx1ZT1Lck9odU1UTDJyajFVd3BQckRJMEtnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/mick-indiana-pacers-clyde-new-orleans-pelicans-25485517"
+    "player_url": "https://j1.soft4game.com/o22/stream89/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE4OjMyIEFNJmhhc2hfdmFsdWU9S0EyTGpIRno3cmFRZzlqWXEwTU9UUT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/minjori-everton-krocs-manchester-city-25488045"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream100/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MTc6NDYgQU0maGFzaF92YWx1ZT1UTkd5NFdLRlBlUUMvNzhhT0pzVTBnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/afghanistan-nepal-25477933"
+    "player_url": "https://j1.soft4game.com/o22/stream273/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE4OjM4IEFNJmhhc2hfdmFsdWU9SHFRQk1WQ0tLNXlPOGw5THVZT1Vkdz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/ho-chi-minh-city-dai-hoc-van-hien-25485916"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream281/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MTc6NTIgQU0maGFzaF92YWx1ZT14bFNDcERTTlUwOWRRQXErMnFXOEpnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/new-jersey-werd--carolina-katai-25485883"
-  },
-  {
-    "match_name": "Ice Hockey",
-    "category": "Sports",
-    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream229/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MTc6NTggQU0maGFzaF92YWx1ZT03RE9YRklucEYra2JraDhZL1hiTCtnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/tigers-sharks-25485911"
-  },
-  {
-    "match_name": "Ice Hockey",
-    "category": "Sports",
-    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream283/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MTg6MDQgQU0maGFzaF92YWx1ZT05U2k3cVNnNXRUU3BEUzhrdFpkRUl3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/argentina-mko1919--spain-wboy-25485977"
-  },
-  {
-    "match_name": "Ice Hockey",
-    "category": "Sports",
-    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream256/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MTg6MjAgQU0maGFzaF92YWx1ZT02djNFbFQwY0V3M01iT2NQalB6R0ZnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/deng-tiana-tian-nakashima-m-abe-h-yamazaki-i-25478299"
-  },
-  {
-    "match_name": "Ice Hockey",
-    "category": "Sports",
-    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream231/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MTg6MjYgQU0maGFzaF92YWx1ZT1DNXVYTk9xSXVtSENIOUxXam13cVVnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/foxes-w--anacondas-w-25485959"
-  },
-  {
-    "match_name": "Ice Hockey",
-    "category": "Sports",
-    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream232/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MTg6MzIgQU0maGFzaF92YWx1ZT1SZzFickYreXRadG5vYkdnQUUydThRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/bayldon-b-fancutt-t-melo-m-seggerman-r-25485560"
-  },
-  {
-    "match_name": "Ice Hockey",
-    "category": "Sports",
-    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream72/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MTg6MzggQU0maGFzaF92YWx1ZT1YREk5L3NvZXYzV0g4cmJKaTF4V1hRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/shanghai-henan-25485909"
-  },
-  {
-    "match_name": "Ice Hockey",
-    "category": "Sports",
-    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream86/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MTg6NDQgQU0maGFzaF92YWx1ZT1BUmJSNnU5SnJBMmtDVWpPcFZyVEh3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/lexi-olympique-de-marseille-annie-montpellier-25484616"
-  },
-  {
-    "match_name": "Ice Hockey",
-    "category": "Sports",
-    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream317/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MTg6NTAgQU0maGFzaF92YWx1ZT1RLzhPK0VBTldBaTRqUzcrdEtLQmFnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/boston-polov--florida-di-akon-25485958"
-  },
-  {
-    "match_name": "Ice Hockey",
-    "category": "Sports",
-    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream287/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MTg6NTYgQU0maGFzaF92YWx1ZT0raEZwT2UyV0w3S2RjbjlJT1I2Tm9RPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/arbidan-a-an-gulnitskii-v-25481298"
-  },
-  {
-    "match_name": "Ice Hockey",
-    "category": "Sports",
-    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream89/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MTk6MDIgQU0maGFzaF92YWx1ZT1peU1qQ2c0aXZObFkvd1Juejg2VG9nPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/zaroth-nantes-krocs-toulouse-fc-25485966"
-  },
-  {
-    "match_name": "Ice Hockey",
-    "category": "Sports",
-    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream314/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MTk6MDggQU0maGFzaF92YWx1ZT1iblczbU1iMUJieW9zdy9ublZNdFZ3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/andrey-braganets-valery-khanko-25485985"
-  },
-  {
-    "match_name": "Ice Hockey",
-    "category": "Sports",
-    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream227/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MTk6MTQgQU0maGFzaF92YWx1ZT1KZmQvLzhaUzN3ZlJGb1lKT1BwYW93PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/oh-chan-yeong-sasikumar-m-25478293"
-  },
-  {
-    "match_name": "Ice Hockey",
-    "category": "Sports",
-    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream257/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MTk6MjAgQU0maGFzaF92YWx1ZT1ZQkw5cDY0STVlTlptNUR1cElHcmtRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/sapfir-pro-w--granat-pro-w-25477874"
-  },
-  {
-    "match_name": "Ice Hockey",
-    "category": "Sports",
-    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream316/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MTk6MjYgQU0maGFzaF92YWx1ZT1rYStJOTU5b1lKRG5MSjhqSHJwYWl3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/anton-gumarov-oleg-mikhalenok-25485901"
-  },
-  {
-    "match_name": "Ice Hockey",
-    "category": "Sports",
-    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream73/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MTk6MzIgQU0maGFzaF92YWx1ZT1rNUxWZ3h5U0NYQi9iZzdIQkkrZE13PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/usa-mers--mexico-alosdvxl-25485981"
-  },
-  {
-    "match_name": "Ice Hockey",
-    "category": "Sports",
-    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream99/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MTk6MzggQU0maGFzaF92YWx1ZT10M0xBZ3BWTStUcHdGLzMyL0RNMHJnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/kopriva-v-shapovalov-d-25478276"
-  },
-  {
-    "match_name": "Ice Hockey",
-    "category": "Sports",
-    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream284/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MTk6NDQgQU0maGFzaF92YWx1ZT1KamMwM3BpMWUzL2RtcnBrMUl1QmxRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/ghana-vladl3n--sweden-legion-25485982"
-  },
-  {
-    "match_name": "Ice Hockey",
-    "category": "Sports",
-    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream86/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MTk6NDkgQU0maGFzaF92YWx1ZT1vZnZsUSs1cFRaeVVTenBrUVlhOHl3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
+    "player_url": "https://j1.soft4game.com/o22/stream86/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE4OjQ0IEFNJmhhc2hfdmFsdWU9MFgzUC83SlBNbmk0N1AzaHJXeEtldz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
     "page_url": "https://dzritv.com/match/lexi-manchester-city-july-everton-25484201"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream228/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MTk6NTUgQU0maGFzaF92YWx1ZT1mV1dxdjFkbGlOMU05dEZnT2c5d3FBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/barnaul-saint-petersburg-25485910"
+    "player_url": "https://j1.soft4game.com/o22/stream8/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE4OjQ5IEFNJmhhc2hfdmFsdWU9TXl1dEdualo3VXVCL2REYzhzV0FhZz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/tsg-hawks-fubon-guardians-25480250"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream230/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MjA6MDIgQU0maGFzaF92YWx1ZT1TZll0YlU5cTFnd1BUV2E1aUFZb29nPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/chen-kuan-shou-peliwo-f-25478294"
+    "player_url": "https://j1.soft4game.com/o22/stream208/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE4OjU1IEFNJmhhc2hfdmFsdWU9NjBiTVZXcUpLekpGSWlNLzZDdUxtdz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/warwickshire-leicestershire-25459638"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream38/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MjA6MDggQU0maGFzaF92YWx1ZT1VTFRtdkt0clhNV1VDMU1za1BWM1hBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/jason-indiana-pacers-mick-new-orleans-pelicans-25485798"
+    "player_url": "https://j1.soft4game.com/o22/stream86/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE5OjAxIEFNJmhhc2hfdmFsdWU9SnNyWGl2ZkExbW04eTRGbUZVZy80dz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/mei-france-trinity-england-25487826"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream208/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MjA6MTQgQU0maGFzaF92YWx1ZT1qa29hWERyd29hUEIrblJqTFN5TllnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/nova-pulse-wiser-warriors-25485641"
+    "player_url": "https://j1.soft4game.com/o22/stream58/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE5OjA3IEFNJmhhc2hfdmFsdWU9K1dackZkYU1nVWVUa0VmNTBBaGI5UT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/lesya-ukrainka-university-lutsk-w--regina-megu-rovno-w-25487743"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream75/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MjA6MjAgQU0maGFzaF92YWx1ZT14eFJidkM2V2ovTlZaSGpkWWpTbHlRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/guangdong-liaoning-25485902"
+    "player_url": "https://j1.soft4game.com/o22/stream264/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE5OjQwIEFNJmhhc2hfdmFsdWU9TTlXakgvVWhoY3BWeU9yTWNtSUhnZz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/foxes-w--sharks-w-25488196"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream235/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MjA6MzUgQU0maGFzaF92YWx1ZT1hbzBWb1NOc2tTMDVocWRIT0dKNmJ3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/asbest-irkutsk-25485986"
+    "player_url": "https://j1.soft4game.com/o22/stream235/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjE5OjQ2IEFNJmhhc2hfdmFsdWU9Z3hPWmY1aHFZMndJK2ppUzMwU0FxQT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/olesen-n-l-titov-oleksii-25488050"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream64/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MjA6NTEgQU0maGFzaF92YWx1ZT1xQ1Z6UzEwSnNlQ0tBTnFKT0xBNEZnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/lunar-vibes-riftwalkers-25485645"
+    "player_url": "https://j1.soft4game.com/o22/stream269/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjIwOjAxIEFNJmhhc2hfdmFsdWU9Y0cvNGpOMUdmM3RrOTN0WGd6TFV2dz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/karol-m-paulson-a-cornea-v-v-neuchrist-m-25480194"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream205/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MjA6NTcgQU0maGFzaF92YWx1ZT05c3h1UCtQSVJtUzlEUDYwSytVMG9nPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/vanta-lyn-riftora-25485681"
+    "player_url": "https://j1.soft4game.com/o22/stream540/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjIwOjA3IEFNJmhhc2hfdmFsdWU9NnZ3TWFMUThqeWFjaWF3TkxPNHMrZz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/atlanta-turikvv25--milwaukee-doubleeightan-25488144"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream201/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MjE6MDMgQU0maGFzaF92YWx1ZT1ocjJKbXQxMUNBZ0tzdFB5aGE5dUl3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/sons-of-madara-twilight-esports-25485457"
+    "player_url": "https://j1.soft4game.com/o22/stream7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjIwOjIyIEFNJmhhc2hfdmFsdWU9UGhqSXZhb1JjK1VWdkpaU1hETUxZZz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/tokyo-yakult-swallows-chunichi-dragons-25481318"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream291/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MjE6MjcgQU0maGFzaF92YWx1ZT1nUEViMDlXRzRBaldqWkVWbU5PS0d3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/vancouver-azarenbl4--carolina-w1nchester-25485980"
+    "player_url": "https://j1.soft4game.com/o22/stream86/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjIwOjI4IEFNJmhhc2hfdmFsdWU9azZpRkJJTnF3SVRTakM1SG1STnpLZz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/lexi-olympique-de-marseille-annie-montpellier-25484616"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream113/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MjE6MzMgQU0maGFzaF92YWx1ZT1tMWVUd2hVelhrcW44VCtIRlE3dVBBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/mertens-e-chwalinska-m-25467768"
+    "player_url": "https://j1.soft4game.com/o22/stream179/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjIwOjM0IEFNJmhhc2hfdmFsdWU9ZGx4UVdPRWU4aVZYWEE3d1JGVHVoZz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/faucon-r-vega-l-krajci-m-poritskyy-a-25481786"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream36/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MjE6NDAgQU0maGFzaF92YWx1ZT1KRFRVRlY1Q2x2UEdxMDI1Y2U2UjVnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/soles-de-los-mochis-paskolas-de-navojoa-25479093"
+    "player_url": "https://j1.soft4game.com/o22/stream546/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjIwOjQwIEFNJmhhc2hfdmFsdWU9QnVjNy90UnlTUFhCK2lJT2k0S1VIdz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/mindfreak-orglesss-australia-25487517"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream39/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MjE6NDYgQU0maGFzaF92YWx1ZT03OVhDbHp0UGNBREtUTVZ1RDBQekhBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/kyle-dallas-mavericks-miles-denver-nuggets-25485799"
+    "player_url": "https://j1.soft4game.com/o22/stream544/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjIwOjQ1IEFNJmhhc2hfdmFsdWU9VkFNNzIwRmxvc2wyR2NxYjlYNVY0dz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/solyx-esports-tenacity-25487576"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream339/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MjE6NTIgQU0maGFzaF92YWx1ZT1JMnhXbnJlQzY0YkE1YUdCSHBKaGZBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/hong-kong-palestine-25485307"
+    "player_url": "https://j1.soft4game.com/o22/stream97/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjIwOjUxIEFNJmhhc2hfdmFsdWU9R3NNVXlWUGFEZEhXQVkvbFVmaHZvQT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/arellano-university-w--uphsd-altas-w-25480255"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream299/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MjE6NTggQU0maGFzaF92YWx1ZT1vNVNRdE5DRVZwUWl4L2RSMXpKSnJnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/carolina-agil--new-jersey-killer-77-25485957"
+    "player_url": "https://j1.soft4game.com/o22/stream296/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjIwOjU3IEFNJmhhc2hfdmFsdWU9OHdjczc5NytRejhWcThGdzgyaXdWQT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/atletico-m-frantsuz--bayern-why-25488402"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream39/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MjI6MDQgQU0maGFzaF92YWx1ZT16ZTV0dmVCcmFsZzlZZXZWQXBCZlhRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/miles-dallas-mavericks-jake-denver-nuggets-25485518"
+    "player_url": "https://j1.soft4game.com/o22/stream561/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjIxOjAzIEFNJmhhc2hfdmFsdWU9RGttRUVmaURDOTdpNG1NenZzZkRBQT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/troyan-a-karpenko-o-25482809"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream234/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MjI6MTkgQU0maGFzaF92YWx1ZT1tRVZyWXE5RDRjUTAzN1kwclUxNUxBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/miyamoto-a-yoshioka-k-nagata-a-sato-hikaru-25478298"
+    "player_url": "https://j1.soft4game.com/o22/stream315/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjIxOjA5IEFNJmhhc2hfdmFsdWU9ckk2TVdqUzdRMCtKdnJWRkRLaTNlQT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/talanov-tor-montreal-kapustenko-k21-chicago-25488143"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream88/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MjI6MjUgQU0maGFzaF92YWx1ZT15WG5YeEtNS2RMeEt2NnlBMkZ3YlNnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/rooney-ca-osasuna-frost-rc-celta-25485965"
+    "player_url": "https://j1.soft4game.com/o22/stream211/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjIxOjE1IEFNJmhhc2hfdmFsdWU9b0lmS013S1F4ako3TG1UN3lQK1I2UT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/team-nemesis-natus-vincere-25486451"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream68/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MjI6NDEgQU0maGFzaF92YWx1ZT1aclhaUlhvMWpsYVd4Z0JlY1NGN093PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/jiangsu-w--fujian-w-25485907"
+    "player_url": "https://j1.soft4game.com/o22/stream553/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjIxOjIwIEFNJmhhc2hfdmFsdWU9UVVUUHNIRWZ1WjBFYTdlZnAwQlNGdz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/france-antohabel17--germany-sunnylemon-25483323"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream85/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MjI6NTYgQU0maGFzaF92YWx1ZT1OUVRCUldXV2tXckVRd2ZJWTN3Q0tnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
+    "player_url": "https://j1.soft4game.com/o22/stream210/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjIxOjI2IEFNJmhhc2hfdmFsdWU9UnBFclNBSEZKakFzak5NWExXWVJpdz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/deathless-vengeance-25487801"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream550/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjIxOjMyIEFNJmhhc2hfdmFsdWU9dFB5Y0x0Y3BrcEd3aTRoYkZzeSs2UT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/liverpool-v1nniepuh--psg-riko-25488401"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream312/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjIxOjM4IEFNJmhhc2hfdmFsdWU9L0gxWldqdGVsZkQ0UWJYb1pOUlg3Zz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/minnesota-rema--cleveland-zarla-25488142"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream214/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjIxOjQ0IEFNJmhhc2hfdmFsdWU9QW8rTitrb0krbG5ueFRiYlB5eElmQT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/ank-gaming-wanin-flash-wolves-25488372"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream13/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjIxOjU5IEFNJmhhc2hfdmFsdWU9dkluaXdlVGdLSVUzd2dtU05Pa0pBZz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/veertin-mie-shonan-united-25480261"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream243/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjIyOjA1IEFNJmhhc2hfdmFsdWU9a1M2eWQ0ZzVzREdOVHU3dy9Ka2tLdz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/sparta-prague-u19-mlada-boleslav-u19-25485561"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream75/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjIyOjEwIEFNJmhhc2hfdmFsdWU9UmxlTGhCOGxVb1lrY1dIQzl4ZTg0dz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/cv-san-roque-gupane-guia-25480252"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream541/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjIyOjI2IEFNJmhhc2hfdmFsdWU9SWFaYXJhaVJhMVhWY1FwWng3aEhhZz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/genone-faze-up-next-25487840"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream174/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjIyOjMxIEFNJmhhc2hfdmFsdWU9K0pZdHFEQ1VnaVcrTElpZGdFUW4rZz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/murgett-f-agwi-m-25481228"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream547/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjIyOjM3IEFNJmhhc2hfdmFsdWU9VGRyOWRjbExuT2R6R3Q0UldIWTBnUT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/ground-zero-gaming-thunderdownunder-25487741"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream203/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjIzOjAyIEFNJmhhc2hfdmFsdWU9SUFQbmFpa21nVGI1amFmSGtsSTZjdz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/fluid-esports-reign-boars-25487492"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream339/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjIzOjA3IEFNJmhhc2hfdmFsdWU9aC80S0VMdU56L1lieWlRc2tiZW1FZz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/kyoto-hannaryz-shiga-lake-stars-25479068"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream234/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjIzOjEzIEFNJmhhc2hfdmFsdWU9Q3Rteks0eVczd1UyME8yRTR6N2tVZz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/gundacker-j-pokorny-l-25469982"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream180/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjIzOjE5IEFNJmhhc2hfdmFsdWU9SjlVelZYZ1crb0REY3VZTHFQc3krQT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/meyer-auf-der-heide-l-schuknecht-leonie-25481264"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream85/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjIzOjI1IEFNJmhhc2hfdmFsdWU9N1ZER2swWHJhSXQ5VEVDNU5LYzBOZz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
     "page_url": "https://dzritv.com/match/rose-united-states-kate-portugal-25482643"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream67/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MjM6MjEgQU0maGFzaF92YWx1ZT1kOHJVN2ROZmZ1dlFmOFNpY3dxcHV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/brani-academy-cinder-gaming-25485666"
+    "player_url": "https://j1.soft4game.com/o22/stream537/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjIzOjMxIEFNJmhhc2hfdmFsdWU9c0dzblFrR254ZjVRSEQxZ2lscWJrQT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/abyssal-ex-arcade-25487805"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream255/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MjM6MzYgQU0maGFzaF92YWx1ZT0vK3YyRkkzcjl3L2puT29WVUZyVlFRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/beastmode-problems-25485963"
+    "player_url": "https://j1.soft4game.com/o22/stream545/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjIzOjM2IEFNJmhhc2hfdmFsdWU9Z0orSjZCUUwwYXFqM0l6ZUNqd1pEdz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/alliance-sinners-25487720"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream33/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MjM6NDIgQU0maGFzaF92YWx1ZT1GL3liYUVxN3p1cTduTTFnMml4b3lnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/ningbo-waves-fuzhou-guardians-25485861"
+    "player_url": "https://j1.soft4game.com/o22/stream295/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjIzOjQyIEFNJmhhc2hfdmFsdWU9dnY1cWVBV21LUENKRGZhTVlMbmNkUT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/monaco-aiger--fenerbahce-z1k0-25488140"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream286/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MjM6NDggQU0maGFzaF92YWx1ZT1PWEd0dlQ4UXZZcE0zMkk1NUpMaklnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/kovshun-y-troyan-a-25482722"
+    "player_url": "https://j1.soft4game.com/o22/stream551/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjIzOjQ4IEFNJmhhc2hfdmFsdWU9MmVUVmtSMTVtcDdrcGJWT3AvcGI1UT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/kocab-jan-vesecky-d-25488190"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream200/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MjM6NTQgQU0maGFzaF92YWx1ZT10VDZUYXJsQkd3QnZwNmVQV253V2N3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/kawada-k-adachi-taki-25482194"
+    "player_url": "https://j1.soft4game.com/o22/stream297/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjIzOjU0IEFNJmhhc2hfdmFsdWU9M0E2eTJTb1lOM2pRSnd0RXNZcTdWUT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/panathinaikos-kefa--crvena-zvezda-snoopcat-25488141"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream63/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MjQ6MDAgQU0maGFzaF92YWx1ZT0rUUR2bHhKVjV6Sm51ME5UbHY4bGR3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/manchester-united-liverpool-25485805"
+    "player_url": "https://j1.soft4game.com/o22/stream154/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI0OjAwIEFNJmhhc2hfdmFsdWU9cVJZR243N0ZmaVJzaFJGSFBHeE0yZz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/kanan-dinthar-25485562"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream315/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MjQ6MDYgQU0maGFzaF92YWx1ZT13M0FydHJBekcxQVlqVE5SdmxnTkhRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/yuri-vasilian-andrey-sukharevsky-25485899"
+    "player_url": "https://j1.soft4game.com/o22/stream538/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI0OjA2IEFNJmhhc2hfdmFsdWU9UHBqelRyKzRtU04rNEhoUjQ4ejE5dz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/vapor-esports-flame-united-25488048"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream60/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MjQ6MzAgQU0maGFzaF92YWx1ZT1mSVVxRWNXb3A2WDZWQ211QXZLRThBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/yunnan-w--sichuan-w-25485908"
+    "player_url": "https://j1.soft4game.com/o22/stream126/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI0OjExIEFNJmhhc2hfdmFsdWU9a3F1OTJtS21KQ2RWU0NYVGVCOUg2Zz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/abahani-dhaka-chattogram-city-25459351"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream61/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MjQ6MzcgQU0maGFzaF92YWx1ZT1UNFIvdTN1Nnp1Z2ZLbjk2V0VCYkFRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/hazarduari-royals-murshidabad-nawabs-25483374"
+    "player_url": "https://j1.soft4game.com/o22/stream244/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI0OjE3IEFNJmhhc2hfdmFsdWU9bXFEV3h1YUIyTWJlTDFWTW9uc1NoZz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/pithoragarh-hurricanes-usn-indians-25481357"
   },
   {
-    "match_name": "Ice Hockey",
+    "match_name": "Soccer",
     "category": "Sports",
     "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
-    "player_url": "https://j1.soft4game.com/o22/stream289/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDU6MjQ6NTIgQU0maGFzaF92YWx1ZT0zYXJGMTFXZzNRTS8zcXdFcGI4RjFBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=",
-    "page_url": "https://dzritv.com/match/hlina-p-puk-j-25482728"
+    "player_url": "https://j1.soft4game.com/o22/stream570/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI0OjIzIEFNJmhhc2hfdmFsdWU9c1JkQVFlZC9YV0RKUlk2U0ZuQWNGdz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/zenit-sirgreggmind--olympiacos-dan414-25488408"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream128/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI0OjQ3IEFNJmhhc2hfdmFsdWU9U2ZjUDJwL25sZE52cVdacE1aM0dUZz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/viz-sinara--orelgu-kprf-w-25488198"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream216/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI0OjUzIEFNJmhhc2hfdmFsdWU9YU1ielZnTzZpdG1xdXZPZ0FYVjJ0Zz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/keving--prohor-25488405"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream178/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI1OjA4IEFNJmhhc2hfdmFsdWU9M0RoVXZqK2JqdmdSWHU2c0lMTis1QT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/kazan-krasnodar-25488195"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream255/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI1OjE0IEFNJmhhc2hfdmFsdWU9WEpNQWlWTG5hZ3RlUjZEaDZ5Z2kvdz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/michalski-d-vanshelboim-e-25487628"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream299/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI1OjI5IEFNJmhhc2hfdmFsdWU9YitMOG14RDRPckQ4YmxQc3Z6bjNSZz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/oklahoma-goatedyulcha--minnesota-north-oj-25488412"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream209/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI1OjM1IEFNJmhhc2hfdmFsdWU9N2FEN2djZlpNRmJ6bXF3bU4vQ3RIZz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/eternal-fire-whitebit-team-25487803"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream238/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI1OjQxIEFNJmhhc2hfdmFsdWU9MXhxZjNFbng3ZTIzRExNdDI5N2FuQT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/tokyo-sun-rockets-chiba-jets-25480267"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream245/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI1OjU2IEFNJmhhc2hfdmFsdWU9WUdEUlM4QXQxUGg2dnV3SDYrMkRJdz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/zaytseva-k-iatcenko-p-25474045"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream175/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI2OjAyIEFNJmhhc2hfdmFsdWU9Uys3aGNoU3hmLzdnb0llSTg3b0lUdz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/cizek-j-tsitsipas-petros-25471692"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream39/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI2OjA4IEFNJmhhc2hfdmFsdWU9YnFFUkNEVEp1L1BYK3Y5Q3c3ay9PQT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/tatum-new-york-knicks-walt-los-angeles-lakers-25487545"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream177/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI2OjIzIEFNJmhhc2hfdmFsdWU9K3BNSXY4SXBBaFIzbkhSTmEva1U5UT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/krylia-sovetov-youth--shinnik-youth-25477836"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream125/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI2OjM4IEFNJmhhc2hfdmFsdWU9RTNCRExhbmtJejZ2QUpkL0QwaWh4QT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/croatia-u20-w--hungary-u20-w-25487125"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream202/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI2OjUyIEFNJmhhc2hfdmFsdWU9YWJzV3FuY3MxSlppdjJicUI5S1czZz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/no-limits-untouchable-25488193"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream259/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI2OjU4IEFNJmhhc2hfdmFsdWU9NFNzMVh6ZFhUVmV1dWFvZEQ4aUxPQT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/redcliffe-dolphins-sydney-roosters-25468994"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream201/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI3OjEzIEFNJmhhc2hfdmFsdWU9WE5NNHJHVFBucjEzQjlmQlFCbk5jdz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/ivanovic-iva-petkovic-anna-okutoyi-a-yesypchuk-d-25464036"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream40/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI3OjE5IEFNJmhhc2hfdmFsdWU9endHd1MvZUVEUWNpTnNZVnFKU2J4Zz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/saga-balloners-hiroshima-dragonfliers-25485972"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream217/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI3OjM0IEFNJmhhc2hfdmFsdWU9ZjVsRVFzdGRWUjJIM0g2c0Y4dmRIQT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/heroic-fnatic-25487016"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream240/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI3OjQ5IEFNJmhhc2hfdmFsdWU9bm9TcW1LbktWcDQ5MklpdHUrcTR4Zz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/nottinghamshire-yorkshire-25459636"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream288/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI3OjU1IEFNJmhhc2hfdmFsdWU9VkN4T3Fvc0NPSE90bG1hcnNhU3lSUT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/zdzislaw-blocho-hubert-kisiolek-25488162"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream232/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI4OjAxIEFNJmhhc2hfdmFsdWU9KzdxbkhVOTZ4S2xwSXNXeXE5dGV5Zz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/mares-v-pecak-s-dominko-s-planinsek-f-j-25471690"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream229/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI4OjA3IEFNJmhhc2hfdmFsdWU9d05HNTMxTDRXaEN5SExjWVA4SjNYZz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/sakhalinskie-akuly-taifun-vladivostok-25477856"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream212/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI4OjIyIEFNJmhhc2hfdmFsdWU9Q29EalhWVFhVUkxVWmFoLy9BNm8zdz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/kovackova-a-colmegna-m-25487627"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream556/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI4OjI4IEFNJmhhc2hfdmFsdWU9RUc3Q1ptQlZxTks4NXRGdDN3cFpxdz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/kayque-valois-damian-antczak-25488168"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream38/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI4OjQzIEFNJmhhc2hfdmFsdWU9enZyYmYvb2p2ZmEyUGFqaTRmS3pEUT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/tim-brooklyn-nets-davis-golden-state-warriors-25487546"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream239/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI4OjQ5IEFNJmhhc2hfdmFsdWU9ajlvREZwdmhtQ0lsbU1zWmZRU3c0Zz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/milovanova-v-samir-s-25481261"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream129/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI4OjU1IEFNJmhhc2hfdmFsdWU9M0M2NmEwWlVHVFF6QVNMSXA0NmFUUT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/kristall-spb-w--spartak-bryansk-w-25487645"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream207/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI5OjEwIEFNJmhhc2hfdmFsdWU9a1JGazRlSTRyVDhnUE5rbzdrSTUwZz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/arribage-t-olivetti-a-escobar-g-kaliyanda-poonacha-n-25452535"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream266/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI5OjE2IEFNJmhhc2hfdmFsdWU9NW42Nm4xM2E5YmViSzUwUmNKSUdOQT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/nc-dinos-hanwha-eagles-25481306"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream227/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI5OjIxIEFNJmhhc2hfdmFsdWU9MHBFTTZSNXpnUXlkT2h3aGJnZzczZz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/giustino-l-campana-lee-g-25481257"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI5OjI3IEFNJmhhc2hfdmFsdWU9MFVObWVVSVBPbnNZS05nRmU2SlZVUT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/amur-lokomotiv-yaroslavl-25468697"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream9/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI5OjMzIEFNJmhhc2hfdmFsdWU9QVlrRlB3aHM3SStKZkVDV0xOdHFYUT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/uni-lions-wei-chuan-dragons-25480251"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream176/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI5OjQ4IEFNJmhhc2hfdmFsdWU9OWFidG5sRzdqUi9iY1hySFBvMDhldz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/magnitogorsk-w--izhevsk-w-25488194"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream241/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjI5OjU0IEFNJmhhc2hfdmFsdWU9aXo5ZUNVd2Y3clkwT1ZrTGR0Mk1sdz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/belgorod-saratov-25488411"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream284/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjMwOjE4IEFNJmhhc2hfdmFsdWU9S2hiVk01NHFnV1p4dFZucVFaYVdmZz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/patrick-yuzefovich-timur-metelsky-25488189"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream258/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjMwOjI0IEFNJmhhc2hfdmFsdWU9K1REUkpFU05jODBhY05Mdy9NRFlNQT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/ebeling-koning-l-mazzola-a-25481235"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream6/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjMwOjMwIEFNJmhhc2hfdmFsdWU9S3BseUhNTDlnWHNrK1hBeHBlM3NwUT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/saitama-seibu-lions-chiba-lotte-marines-25481319"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream343/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjMwOjM2IEFNJmhhc2hfdmFsdWU9REV5TEZnbzJ4UjJaT0tLeVd2Mm9rUT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/mu-cardinal-csb-blasers-25469132"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream85/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjMwOjQyIEFNJmhhc2hfdmFsdWU9SEp5TWo4REJwTnpGakdNZFlCOXJTdz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/alicia-united-states-lotta-spain-25487825"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream60/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjMwOjU3IEFNJmhhc2hfdmFsdWU9UGlJWnk2Q2gxRXRTS2hWT2NQU1p4UT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/nhlangano-legends-pak-xi-25487863"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream206/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjMxOjAyIEFNJmhhc2hfdmFsdWU9UDBvY2l2cmZ6andSS1ZjZXprZDJQZz09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/flyquest-rooster-25487515"
+  },
+  {
+    "match_name": "Soccer",
+    "category": "Sports",
+    "image": "https://dzritv.com/assets/img/icons/Group 644.svg",
+    "player_url": "https://j1.soft4game.com/o22/stream64/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDI2IDEwOjMxOjA4IEFNJmhhc2hfdmFsdWU9ZTRzbmVZaERYdTViMDFTdEJMUGJsQT09JnZhbGlkbWludXRlcz0xJmlkPTIy",
+    "page_url": "https://dzritv.com/match/cupid-esports-vivo-keyd-stars-academy-25488118"
   }
 ]
